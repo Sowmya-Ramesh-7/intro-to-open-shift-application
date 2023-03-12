@@ -1,0 +1,19 @@
+{
+  "name": "my-node-project",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sowmya-Ramesh-7/intro-to-open-shift-application.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sowmya-Ramesh-7/intro-to-open-shift-application/issues"
+  },
+  "homepage": "https://github.com/Sowmya-Ramesh-7/intro-to-open-shift-application#readme",
+  "description": ""
+}
