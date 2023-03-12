@@ -16,7 +16,8 @@
   },
   "homepage": "https://github.com/Sowmya-Ramesh-7/intro-to-open-shift-application#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "package": "^1.0.1"
   },
   "devDependencies": {},
   "description": ""
